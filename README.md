@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning: React
 - 💬 Ask me about: Scrum, fascilitation, leadership, being an immigrant, workplace equity for bipoc, drag race
 - 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/bmvillegas/)
-- ⚡ Fun fact: I have been rollerskating for over 25 years
+- ⚡ Fun fact: I used to compete professionally in jam rollerskating competitions. I still skate today, mostly at skateparks on ramps and in bowls.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bretagne-marie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
