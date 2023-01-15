@@ -1,6 +1,6 @@
 # Hello world, I'm Brittany!
 
-- 👩🏻‍💻 I'm a 32-year-old self-taught fullstack web developer helping immigrants around the world transition into a career in tech. Not an expert, but I don't care. I think software development is fun and is one of the main outlets that perfectly blends creativity and collaboration to help solve complex problems!
+- 👩🏻‍💻 I'm a 33-year-old self-taught fullstack web developer helping immigrants around the world transition into a career in tech. Not an expert, but I don't care. I think software development is fun and is one of the main outlets for blending creativity and collaboration to help solve complex problems!
 - 🔭 I’m currently working on: My nonprofit's first website project. Check it out here: [Coding For Immigrants Website Repository](https://github.com/Coding-For-Immigrants/website "CFI's Website Repository")
 - 🌱 I’m currently learning: React
 - 💬 Ask me about: Scrum, fascilitation, leadership, being an immigrant, workplace equity for bipoc, drag race
